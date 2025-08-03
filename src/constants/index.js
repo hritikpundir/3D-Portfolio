@@ -12,10 +12,10 @@ const navLinks = [
     name: "Skills",
     link: "#skills",
   },
-  {
-    name: "Testimonials",
-    link: "#testimonials",
-  },
+  // {
+  //   name: "Testimonials",
+  //   link: "#testimonials",
+  // },
 ];
 
 const words = [
@@ -248,18 +248,17 @@ const testimonials = [
 const socialImgs = [
   {
     name: "insta",
+    url: "https://www.instagram.com/hritikpundir_/",
     imgPath: "/images/insta.png",
   },
   {
-    name: "fb",
-    imgPath: "/images/fb.png",
-  },
-  {
-    name: "x",
-    imgPath: "/images/x.png",
+    name: "github",
+    url: "https://github.com/hritikpundir",
+    imgPath: "/images/github.svg",
   },
   {
     name: "linkedin",
+    url: "https://www.linkedin.com/in/hritik-pundir-a0a556299",
     imgPath: "/images/linkedin.png",
   },
 ];
